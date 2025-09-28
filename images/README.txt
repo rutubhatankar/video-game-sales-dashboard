@@ -1,0 +1,1 @@
+Add screenshots here: vgsales_overview.png, vgsales_region.png, vgsales_genre.png, vgsales_platform.png
